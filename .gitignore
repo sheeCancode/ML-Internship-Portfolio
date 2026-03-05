@@ -1,0 +1,20 @@
+# Python environment files
+.venv/
+env/
+venv/
+ENV/
+
+# Anaconda files (if your folder is named anaconda3)
+anaconda3/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files (usually datasets are too big for GitHub)
+data/*.csv
+data/*.zip
+
+# Notebook checkpoints
+.ipynb_checkpoints/
